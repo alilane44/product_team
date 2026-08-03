@@ -10,11 +10,15 @@ evidence-led and reusable product-design solutions.
 Before starting substantial design work:
 
 1. Read `context/DESIGNER_PROFILE.md`.
-2. Read `context/PRODUCT_CONTEXT.md`.
-3. Read `context/DESIGN_PRINCIPLES.md`.
-4. Read `context/DESIGN_SYSTEM.md`.
-5. Read `context/DECISION_LOG.md`.
-6. Read the relevant brief in `briefs/`.
+2. Read `context/DESIGN_SYSTEM_SPECIALIST.md`.
+3. Read `context/CONTENT_DESIGNER.md`.
+4. Read `context/USER_RESEARCHER.md`.
+5. Read `context/ENGINEER.md`.
+6. Read `context/DECISION_LOG.md`.
+7. Read `context/DATA_ANALYST.md`.
+8. Read `context/PRODUCT_MANAGER.md`.
+9. Read `context/ACCESSIBILITY_SPECIALIST.md`.
+10. Read the relevant brief in `briefs/`.
 
 Do not invent missing research, analytics, technical constraints or
 business requirements.
